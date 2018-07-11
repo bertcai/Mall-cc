@@ -5,6 +5,7 @@ import App from './App'
 import router from './router'
 import 'styles/reset.css'
 import 'styles/border.css'
+import 'lib-flexible/flexible'
 
 Vue.config.productionTip = false
 
