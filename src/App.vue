@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <span class="iconfont">&#xe6b8;</span>
     <img src="./assets/logo.png">
     <router-view />
     <router-view name="title1" />
